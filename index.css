@@ -1,0 +1,108 @@
+.image1{
+    position: relative;
+    top: 20px;
+   
+}
+
+.block1{
+    width: 50%;
+    position: relative;
+    top: 40px;
+    float: left;
+    background-color:#e3dafb ;
+    
+}
+
+.block2{
+    float: right;
+    width: 50%;
+    position: relative;
+    top: 40px;
+    background-color:#e3dafb ;
+    
+}
+.ads{
+    position: relative;
+    top: 60px;
+}
+
+
+
+
+.endtext{
+    text-align: center;
+
+}
+
+.last{
+    
+    width: 100%;
+    height: 60px;
+    position: relative;
+    top: 30px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #5E35B1;
+}
+
+.mainparent{
+    background-color: #e3dafb  !important ;
+}
+
+.navbar{
+    background-color:#5E35B1 !important ;
+}
+
+.btn{
+    background-color:#7E57C2 !important ;
+    border-color:#9575CD ;
+}
+.btn1{
+    background-color: #C62828 !important ;
+    border-color: #EF9A9A;
+}
+
+.slider{
+    position: relative;
+    top: 50px;
+}
+.mover{
+    position: relative;
+    top: 50px;
+}
+
+.alert1{
+    position: relative;
+    top: 50px;
+    text-align: center;
+    background-color:#5E35B1 !important ;
+    border: none ;
+    color:white;
+    
+}
+
+.card{
+    border: none ;
+    position: relative;
+    top: 35px;
+}
+
+.card-text {
+    color:#4527A0 ;
+}
+.card-title{
+    color: #311B92;
+}
+.cardend{
+    position: relative;
+    top: 34px;
+}
+.cardmb-3{
+    background-color: #e3dafb;
+}
+
+.copy, .powered {
+    color: white;
+    position: relative;
+    top: 15px;
+}
